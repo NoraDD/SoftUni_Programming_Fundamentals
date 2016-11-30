@@ -1,0 +1,3 @@
+C:\Users\nora2\Desktop\Projects\Tech Module\Sample\Sweet Dessert\bin\Debug\Sweet Dessert.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\Sample\Sweet Dessert\obj\Debug\Sweet Dessert.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\Sample\Sweet Dessert\obj\Debug\Sweet Dessert.pdb

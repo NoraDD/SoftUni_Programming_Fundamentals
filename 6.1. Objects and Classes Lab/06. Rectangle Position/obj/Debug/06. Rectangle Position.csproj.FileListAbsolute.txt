@@ -1,0 +1,6 @@
+C:\Users\nora2\Desktop\Projects\Tech Module\6.1. Objects and Classes Lab\06. Rectangle Position\bin\Debug\_06.Rectangle_Position.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\6.1. Objects and Classes Lab\06. Rectangle Position\bin\Debug\_06.Rectangle_Position.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\6.1. Objects and Classes Lab\06. Rectangle Position\bin\Debug\_06.Rectangle_Position.pdb
+C:\Users\nora2\Desktop\Projects\Tech Module\6.1. Objects and Classes Lab\06. Rectangle Position\obj\Debug\06. Rectangle Position.csprojResolveAssemblyReference.cache
+C:\Users\nora2\Desktop\Projects\Tech Module\6.1. Objects and Classes Lab\06. Rectangle Position\obj\Debug\_06.Rectangle_Position.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\6.1. Objects and Classes Lab\06. Rectangle Position\obj\Debug\_06.Rectangle_Position.pdb

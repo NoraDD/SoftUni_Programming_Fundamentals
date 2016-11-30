@@ -1,0 +1,9 @@
+c:\users\siropo\documents\visual studio 2015\Projects\03. Data Types and Variables Exercises\01. Practice Integers\bin\Debug\_01.Practice_Integers.exe.config
+c:\users\siropo\documents\visual studio 2015\Projects\03. Data Types and Variables Exercises\01. Practice Integers\bin\Debug\_01.Practice_Integers.exe
+c:\users\siropo\documents\visual studio 2015\Projects\03. Data Types and Variables Exercises\01. Practice Integers\bin\Debug\_01.Practice_Integers.pdb
+c:\users\siropo\documents\visual studio 2015\Projects\03. Data Types and Variables Exercises\01. Practice Integers\obj\Debug\01. Practice Integers.csprojResolveAssemblyReference.cache
+c:\users\siropo\documents\visual studio 2015\Projects\03. Data Types and Variables Exercises\01. Practice Integers\obj\Debug\_01.Practice_Integers.exe
+c:\users\siropo\documents\visual studio 2015\Projects\03. Data Types and Variables Exercises\01. Practice Integers\obj\Debug\_01.Practice_Integers.pdb
+C:\Users\nora2\Desktop\Projects\Tech Module\2.2. Data Types and Variables Exercises\01. Practice Integers\bin\Debug\_01.Practice_Integers.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\2.2. Data Types and Variables Exercises\01. Practice Integers\obj\Debug\_01.Practice_Integers.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\2.2. Data Types and Variables Exercises\01. Practice Integers\obj\Debug\_01.Practice_Integers.pdb

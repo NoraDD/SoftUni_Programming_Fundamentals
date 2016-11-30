@@ -1,0 +1,6 @@
+c:\users\siropo\documents\visual studio 2015\Projects\02. Data Types and Variables Lab\04. Elevator\bin\Debug\_04.Elevator.exe.config
+c:\users\siropo\documents\visual studio 2015\Projects\02. Data Types and Variables Lab\04. Elevator\bin\Debug\_04.Elevator.exe
+c:\users\siropo\documents\visual studio 2015\Projects\02. Data Types and Variables Lab\04. Elevator\bin\Debug\_04.Elevator.pdb
+c:\users\siropo\documents\visual studio 2015\Projects\02. Data Types and Variables Lab\04. Elevator\obj\Debug\04. Elevator.csprojResolveAssemblyReference.cache
+c:\users\siropo\documents\visual studio 2015\Projects\02. Data Types and Variables Lab\04. Elevator\obj\Debug\_04.Elevator.exe
+c:\users\siropo\documents\visual studio 2015\Projects\02. Data Types and Variables Lab\04. Elevator\obj\Debug\_04.Elevator.pdb

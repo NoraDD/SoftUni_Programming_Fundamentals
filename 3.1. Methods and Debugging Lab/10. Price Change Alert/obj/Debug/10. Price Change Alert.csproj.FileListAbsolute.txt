@@ -1,0 +1,6 @@
+C:\Users\nora2\Desktop\Projects\Tech Module\3.1. Methods and Debugging Lab\10. Price Change Alert\bin\Debug\_10.Price_Change_Alert.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\3.1. Methods and Debugging Lab\10. Price Change Alert\bin\Debug\_10.Price_Change_Alert.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\3.1. Methods and Debugging Lab\10. Price Change Alert\bin\Debug\_10.Price_Change_Alert.pdb
+C:\Users\nora2\Desktop\Projects\Tech Module\3.1. Methods and Debugging Lab\10. Price Change Alert\obj\Debug\10. Price Change Alert.csprojResolveAssemblyReference.cache
+C:\Users\nora2\Desktop\Projects\Tech Module\3.1. Methods and Debugging Lab\10. Price Change Alert\obj\Debug\_10.Price_Change_Alert.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\3.1. Methods and Debugging Lab\10. Price Change Alert\obj\Debug\_10.Price_Change_Alert.pdb

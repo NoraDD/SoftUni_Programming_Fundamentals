@@ -1,0 +1,6 @@
+C:\Users\nora2\Desktop\Projects\Tech Module\6.1. Objects and Classes Lab\07. Sales Report\bin\Debug\_07.Sales_Report.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\6.1. Objects and Classes Lab\07. Sales Report\bin\Debug\_07.Sales_Report.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\6.1. Objects and Classes Lab\07. Sales Report\bin\Debug\_07.Sales_Report.pdb
+C:\Users\nora2\Desktop\Projects\Tech Module\6.1. Objects and Classes Lab\07. Sales Report\obj\Debug\07. Sales Report.csprojResolveAssemblyReference.cache
+C:\Users\nora2\Desktop\Projects\Tech Module\6.1. Objects and Classes Lab\07. Sales Report\obj\Debug\_07.Sales_Report.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\6.1. Objects and Classes Lab\07. Sales Report\obj\Debug\_07.Sales_Report.pdb

@@ -1,0 +1,6 @@
+C:\Users\nora2\Desktop\Projects\Tech Module\3.1. Methods and Debugging Lab\08. Multiply Evens by Odds\bin\Debug\_08.Multiply_Evens_by_Odds.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\3.1. Methods and Debugging Lab\08. Multiply Evens by Odds\bin\Debug\_08.Multiply_Evens_by_Odds.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\3.1. Methods and Debugging Lab\08. Multiply Evens by Odds\bin\Debug\_08.Multiply_Evens_by_Odds.pdb
+C:\Users\nora2\Desktop\Projects\Tech Module\3.1. Methods and Debugging Lab\08. Multiply Evens by Odds\obj\Debug\08. Multiply Evens by Odds.csprojResolveAssemblyReference.cache
+C:\Users\nora2\Desktop\Projects\Tech Module\3.1. Methods and Debugging Lab\08. Multiply Evens by Odds\obj\Debug\_08.Multiply_Evens_by_Odds.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\3.1. Methods and Debugging Lab\08. Multiply Evens by Odds\obj\Debug\_08.Multiply_Evens_by_Odds.pdb

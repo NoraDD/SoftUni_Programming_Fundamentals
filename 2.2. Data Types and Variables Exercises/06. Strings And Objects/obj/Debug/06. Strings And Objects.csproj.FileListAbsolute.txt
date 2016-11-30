@@ -1,0 +1,6 @@
+c:\users\siropo\documents\visual studio 2015\Projects\03. Data Types and Variables Exercises\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.exe.config
+c:\users\siropo\documents\visual studio 2015\Projects\03. Data Types and Variables Exercises\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.exe
+c:\users\siropo\documents\visual studio 2015\Projects\03. Data Types and Variables Exercises\06. Strings And Objects\bin\Debug\_06.Strings_And_Objects.pdb
+c:\users\siropo\documents\visual studio 2015\Projects\03. Data Types and Variables Exercises\06. Strings And Objects\obj\Debug\06. Strings And Objects.csprojResolveAssemblyReference.cache
+c:\users\siropo\documents\visual studio 2015\Projects\03. Data Types and Variables Exercises\06. Strings And Objects\obj\Debug\_06.Strings_And_Objects.exe
+c:\users\siropo\documents\visual studio 2015\Projects\03. Data Types and Variables Exercises\06. Strings And Objects\obj\Debug\_06.Strings_And_Objects.pdb

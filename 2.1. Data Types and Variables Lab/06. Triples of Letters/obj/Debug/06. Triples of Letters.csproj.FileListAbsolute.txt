@@ -1,0 +1,8 @@
+c:\users\siropo\documents\visual studio 2015\Projects\02. Data Types and Variables Lab\06. Triples of Letters\bin\Debug\_06.Triples_of_Letters.exe.config
+c:\users\siropo\documents\visual studio 2015\Projects\02. Data Types and Variables Lab\06. Triples of Letters\bin\Debug\_06.Triples_of_Letters.exe
+c:\users\siropo\documents\visual studio 2015\Projects\02. Data Types and Variables Lab\06. Triples of Letters\bin\Debug\_06.Triples_of_Letters.pdb
+c:\users\siropo\documents\visual studio 2015\Projects\02. Data Types and Variables Lab\06. Triples of Letters\obj\Debug\_06.Triples_of_Letters.exe
+c:\users\siropo\documents\visual studio 2015\Projects\02. Data Types and Variables Lab\06. Triples of Letters\obj\Debug\_06.Triples_of_Letters.pdb
+C:\Users\siropo\Documents\Visual Studio 2015\Projects\Tech Module\02. Data Types and Variables Lab\06. Triples of Letters\bin\Debug\_06.Triples_of_Letters.exe.config
+C:\Users\siropo\Documents\Visual Studio 2015\Projects\Tech Module\02. Data Types and Variables Lab\06. Triples of Letters\obj\Debug\_06.Triples_of_Letters.exe
+C:\Users\siropo\Documents\Visual Studio 2015\Projects\Tech Module\02. Data Types and Variables Lab\06. Triples of Letters\obj\Debug\_06.Triples_of_Letters.pdb

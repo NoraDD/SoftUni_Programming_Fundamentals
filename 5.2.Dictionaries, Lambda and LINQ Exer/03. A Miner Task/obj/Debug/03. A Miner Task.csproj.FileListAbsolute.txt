@@ -1,0 +1,9 @@
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\5.2.Dictionaries, Lambda and LINQ Exer\03. A Miner Task\bin\Debug\_03.A_Miner_Task.exe.config
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\5.2.Dictionaries, Lambda and LINQ Exer\03. A Miner Task\bin\Debug\_03.A_Miner_Task.exe
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\5.2.Dictionaries, Lambda and LINQ Exer\03. A Miner Task\bin\Debug\_03.A_Miner_Task.pdb
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\5.2.Dictionaries, Lambda and LINQ Exer\03. A Miner Task\obj\Debug\03. A Miner Task.csprojResolveAssemblyReference.cache
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\5.2.Dictionaries, Lambda and LINQ Exer\03. A Miner Task\obj\Debug\_03.A_Miner_Task.exe
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\5.2.Dictionaries, Lambda and LINQ Exer\03. A Miner Task\obj\Debug\_03.A_Miner_Task.pdb
+C:\Users\nora2\Desktop\Projects\Tech Module\5.2.Dictionaries, Lambda and LINQ Exer\03. A Miner Task\bin\Debug\_03.A_Miner_Task.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\5.2.Dictionaries, Lambda and LINQ Exer\03. A Miner Task\obj\Debug\_03.A_Miner_Task.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\5.2.Dictionaries, Lambda and LINQ Exer\03. A Miner Task\obj\Debug\_03.A_Miner_Task.pdb

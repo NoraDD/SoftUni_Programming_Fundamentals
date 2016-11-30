@@ -1,0 +1,7 @@
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\Sample\Sample\bin\Debug\Sample.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\Sample\Sample\bin\Debug\Sample.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\Sample\Sample\bin\Debug\Sample.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\Sample\Sample\bin\Debug\Sample.pdb
+C:\Users\nora2\Desktop\Projects\Tech Module\Sample\Sample\obj\Debug\Sample.csprojResolveAssemblyReference.cache
+C:\Users\nora2\Desktop\Projects\Tech Module\Sample\Sample\obj\Debug\Sample.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\Sample\Sample\obj\Debug\Sample.pdb

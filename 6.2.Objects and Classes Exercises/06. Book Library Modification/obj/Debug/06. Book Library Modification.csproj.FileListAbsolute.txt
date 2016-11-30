@@ -1,0 +1,5 @@
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\6.2.Objects and Classes Exercises\06. Book Library Modification\bin\Debug\_06.Book_Library_Modification.exe.config
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\6.2.Objects and Classes Exercises\06. Book Library Modification\bin\Debug\_06.Book_Library_Modification.exe
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\6.2.Objects and Classes Exercises\06. Book Library Modification\bin\Debug\_06.Book_Library_Modification.pdb
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\6.2.Objects and Classes Exercises\06. Book Library Modification\obj\Debug\_06.Book_Library_Modification.exe
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\6.2.Objects and Classes Exercises\06. Book Library Modification\obj\Debug\_06.Book_Library_Modification.pdb

@@ -1,0 +1,6 @@
+C:\Users\nora2\Desktop\Projects\Tech Module\3.2.Methods and Debugging - Excercises\07. Primes in Given Range\bin\Debug\_07.Primes_in_Given_Range.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\3.2.Methods and Debugging - Excercises\07. Primes in Given Range\bin\Debug\_07.Primes_in_Given_Range.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\3.2.Methods and Debugging - Excercises\07. Primes in Given Range\bin\Debug\_07.Primes_in_Given_Range.pdb
+C:\Users\nora2\Desktop\Projects\Tech Module\3.2.Methods and Debugging - Excercises\07. Primes in Given Range\obj\Debug\07. Primes in Given Range.csprojResolveAssemblyReference.cache
+C:\Users\nora2\Desktop\Projects\Tech Module\3.2.Methods and Debugging - Excercises\07. Primes in Given Range\obj\Debug\_07.Primes_in_Given_Range.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\3.2.Methods and Debugging - Excercises\07. Primes in Given Range\obj\Debug\_07.Primes_in_Given_Range.pdb

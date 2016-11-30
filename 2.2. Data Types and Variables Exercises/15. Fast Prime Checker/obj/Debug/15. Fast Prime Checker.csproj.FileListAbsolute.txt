@@ -1,0 +1,9 @@
+c:\users\siropo\documents\visual studio 2015\Projects\03. Data Types and Variables Exercises\15. Fast Prime Checker\bin\Debug\_15.Fast_Prime_Checker.exe.config
+c:\users\siropo\documents\visual studio 2015\Projects\03. Data Types and Variables Exercises\15. Fast Prime Checker\bin\Debug\_15.Fast_Prime_Checker.exe
+c:\users\siropo\documents\visual studio 2015\Projects\03. Data Types and Variables Exercises\15. Fast Prime Checker\bin\Debug\_15.Fast_Prime_Checker.pdb
+c:\users\siropo\documents\visual studio 2015\Projects\03. Data Types and Variables Exercises\15. Fast Prime Checker\obj\Debug\_15.Fast_Prime_Checker.exe
+c:\users\siropo\documents\visual studio 2015\Projects\03. Data Types and Variables Exercises\15. Fast Prime Checker\obj\Debug\_15.Fast_Prime_Checker.pdb
+c:\users\siropo\documents\visual studio 2015\Projects\03. Data Types and Variables Exercises\15. Fast Prime Checker\obj\Debug\15. Fast Prime Checker.csprojResolveAssemblyReference.cache
+C:\Users\nora2\Desktop\Projects\Tech Module\2.2. Data Types and Variables Exercises\15. Fast Prime Checker\bin\Debug\_15.Fast_Prime_Checker.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\2.2. Data Types and Variables Exercises\15. Fast Prime Checker\obj\Debug\_15.Fast_Prime_Checker.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\2.2. Data Types and Variables Exercises\15. Fast Prime Checker\obj\Debug\_15.Fast_Prime_Checker.pdb

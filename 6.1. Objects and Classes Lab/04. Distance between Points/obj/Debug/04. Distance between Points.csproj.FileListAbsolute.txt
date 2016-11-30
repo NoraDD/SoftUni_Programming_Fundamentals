@@ -1,0 +1,6 @@
+C:\Users\nora2\Desktop\Projects\Tech Module\6.1. Objects and Classes Lab\04. Distance between Points\bin\Debug\_04.Distance_between_Points.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\6.1. Objects and Classes Lab\04. Distance between Points\bin\Debug\_04.Distance_between_Points.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\6.1. Objects and Classes Lab\04. Distance between Points\bin\Debug\_04.Distance_between_Points.pdb
+C:\Users\nora2\Desktop\Projects\Tech Module\6.1. Objects and Classes Lab\04. Distance between Points\obj\Debug\04. Distance between Points.csprojResolveAssemblyReference.cache
+C:\Users\nora2\Desktop\Projects\Tech Module\6.1. Objects and Classes Lab\04. Distance between Points\obj\Debug\_04.Distance_between_Points.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\6.1. Objects and Classes Lab\04. Distance between Points\obj\Debug\_04.Distance_between_Points.pdb

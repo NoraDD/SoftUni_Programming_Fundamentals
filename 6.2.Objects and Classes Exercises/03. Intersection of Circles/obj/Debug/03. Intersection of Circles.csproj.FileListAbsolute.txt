@@ -1,0 +1,6 @@
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\6.2.Objects and Classes Exercises\03. Intersection of Circles\bin\Debug\_03.Intersection_of_Circles.exe.config
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\6.2.Objects and Classes Exercises\03. Intersection of Circles\bin\Debug\_03.Intersection_of_Circles.exe
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\6.2.Objects and Classes Exercises\03. Intersection of Circles\bin\Debug\_03.Intersection_of_Circles.pdb
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\6.2.Objects and Classes Exercises\03. Intersection of Circles\obj\Debug\03. Intersection of Circles.csprojResolveAssemblyReference.cache
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\6.2.Objects and Classes Exercises\03. Intersection of Circles\obj\Debug\_03.Intersection_of_Circles.exe
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\6.2.Objects and Classes Exercises\03. Intersection of Circles\obj\Debug\_03.Intersection_of_Circles.pdb

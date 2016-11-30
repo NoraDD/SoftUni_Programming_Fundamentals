@@ -1,0 +1,6 @@
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\5.1.Dictionaries, Lambda and LINQ Lab\06. Fold and Sum\bin\Debug\_06.Fold_and_Sum.exe.config
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\5.1.Dictionaries, Lambda and LINQ Lab\06. Fold and Sum\bin\Debug\_06.Fold_and_Sum.exe
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\5.1.Dictionaries, Lambda and LINQ Lab\06. Fold and Sum\bin\Debug\_06.Fold_and_Sum.pdb
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\5.1.Dictionaries, Lambda and LINQ Lab\06. Fold and Sum\obj\Debug\06. Fold and Sum.csprojResolveAssemblyReference.cache
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\5.1.Dictionaries, Lambda and LINQ Lab\06. Fold and Sum\obj\Debug\_06.Fold_and_Sum.exe
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\5.1.Dictionaries, Lambda and LINQ Lab\06. Fold and Sum\obj\Debug\_06.Fold_and_Sum.pdb

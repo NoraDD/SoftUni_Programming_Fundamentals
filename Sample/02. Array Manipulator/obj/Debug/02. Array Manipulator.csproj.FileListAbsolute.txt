@@ -1,0 +1,6 @@
+C:\Users\nora2\Desktop\Projects\Tech Module\Sample\02. Array Manipulator\bin\Debug\_02.Array_Manipulator.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\Sample\02. Array Manipulator\bin\Debug\_02.Array_Manipulator.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\Sample\02. Array Manipulator\bin\Debug\_02.Array_Manipulator.pdb
+C:\Users\nora2\Desktop\Projects\Tech Module\Sample\02. Array Manipulator\obj\Debug\02. Array Manipulator.csprojResolveAssemblyReference.cache
+C:\Users\nora2\Desktop\Projects\Tech Module\Sample\02. Array Manipulator\obj\Debug\_02.Array_Manipulator.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\Sample\02. Array Manipulator\obj\Debug\_02.Array_Manipulator.pdb

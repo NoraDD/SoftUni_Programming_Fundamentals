@@ -1,0 +1,5 @@
+C:\Users\nora2\Desktop\Projects\Tech Module\3.2.Methods and Debugging - Excercises\14. Factorial Trailing Zeroes\bin\Debug\_14.Factorial_Trailing_Zeroes.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\3.2.Methods and Debugging - Excercises\14. Factorial Trailing Zeroes\bin\Debug\_14.Factorial_Trailing_Zeroes.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\3.2.Methods and Debugging - Excercises\14. Factorial Trailing Zeroes\bin\Debug\_14.Factorial_Trailing_Zeroes.pdb
+C:\Users\nora2\Desktop\Projects\Tech Module\3.2.Methods and Debugging - Excercises\14. Factorial Trailing Zeroes\obj\Debug\_14.Factorial_Trailing_Zeroes.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\3.2.Methods and Debugging - Excercises\14. Factorial Trailing Zeroes\obj\Debug\_14.Factorial_Trailing_Zeroes.pdb

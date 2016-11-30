@@ -1,0 +1,6 @@
+C:\Users\nora2\Desktop\Projects\Tech Module\Sample\example2\bin\Debug\example2.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\Sample\example2\bin\Debug\example2.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\Sample\example2\bin\Debug\example2.pdb
+C:\Users\nora2\Desktop\Projects\Tech Module\Sample\example2\obj\Debug\example2.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\Sample\example2\obj\Debug\example2.pdb
+C:\Users\nora2\Desktop\Projects\Tech Module\Sample\example2\obj\Debug\example2.csprojResolveAssemblyReference.cache

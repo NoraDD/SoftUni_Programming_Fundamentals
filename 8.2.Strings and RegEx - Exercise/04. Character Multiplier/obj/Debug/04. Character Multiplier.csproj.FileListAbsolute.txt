@@ -1,0 +1,8 @@
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\8.2.Strings and RegEx - Exercise\04. Character Multiplier\bin\Debug\_04.Character_Multiplier.exe.config
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\8.2.Strings and RegEx - Exercise\04. Character Multiplier\bin\Debug\_04.Character_Multiplier.exe
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\8.2.Strings and RegEx - Exercise\04. Character Multiplier\bin\Debug\_04.Character_Multiplier.pdb
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\8.2.Strings and RegEx - Exercise\04. Character Multiplier\obj\Debug\_04.Character_Multiplier.exe
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\8.2.Strings and RegEx - Exercise\04. Character Multiplier\obj\Debug\_04.Character_Multiplier.pdb
+C:\Users\nora2\Desktop\Projects\Tech Module\8.2.Strings and RegEx - Exercise\04. Character Multiplier\bin\Debug\_04.Character_Multiplier.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\8.2.Strings and RegEx - Exercise\04. Character Multiplier\obj\Debug\_04.Character_Multiplier.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\8.2.Strings and RegEx - Exercise\04. Character Multiplier\obj\Debug\_04.Character_Multiplier.pdb

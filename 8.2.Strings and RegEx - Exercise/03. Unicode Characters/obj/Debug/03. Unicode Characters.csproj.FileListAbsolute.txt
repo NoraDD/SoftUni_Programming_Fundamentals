@@ -1,0 +1,9 @@
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\8.2.Strings and RegEx - Exercise\03. Unicode Characters\bin\Debug\_03.Unicode_Characters.exe.config
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\8.2.Strings and RegEx - Exercise\03. Unicode Characters\bin\Debug\_03.Unicode_Characters.exe
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\8.2.Strings and RegEx - Exercise\03. Unicode Characters\bin\Debug\_03.Unicode_Characters.pdb
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\8.2.Strings and RegEx - Exercise\03. Unicode Characters\obj\Debug\03. Unicode Characters.csprojResolveAssemblyReference.cache
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\8.2.Strings and RegEx - Exercise\03. Unicode Characters\obj\Debug\_03.Unicode_Characters.exe
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\8.2.Strings and RegEx - Exercise\03. Unicode Characters\obj\Debug\_03.Unicode_Characters.pdb
+C:\Users\nora2\Desktop\Projects\Tech Module\8.2.Strings and RegEx - Exercise\03. Unicode Characters\bin\Debug\_03.Unicode_Characters.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\8.2.Strings and RegEx - Exercise\03. Unicode Characters\obj\Debug\_03.Unicode_Characters.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\8.2.Strings and RegEx - Exercise\03. Unicode Characters\obj\Debug\_03.Unicode_Characters.pdb

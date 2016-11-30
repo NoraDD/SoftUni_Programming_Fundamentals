@@ -1,0 +1,7 @@
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\4.1.Arrays and Lists Lab\05. Rounding Numbers\bin\Debug\_05.Rounding_Numbers.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\4.1.Arrays and Lists Lab\05. Rounding Numbers\bin\Debug\_05.Rounding_Numbers.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\4.1.Arrays and Lists Lab\05. Rounding Numbers\bin\Debug\_05.Rounding_Numbers.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\4.1.Arrays and Lists Lab\05. Rounding Numbers\bin\Debug\_05.Rounding_Numbers.pdb
+C:\Users\nora2\Desktop\Projects\Tech Module\4.1.Arrays and Lists Lab\05. Rounding Numbers\obj\Debug\05. Rounding Numbers.csprojResolveAssemblyReference.cache
+C:\Users\nora2\Desktop\Projects\Tech Module\4.1.Arrays and Lists Lab\05. Rounding Numbers\obj\Debug\_05.Rounding_Numbers.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\4.1.Arrays and Lists Lab\05. Rounding Numbers\obj\Debug\_05.Rounding_Numbers.pdb

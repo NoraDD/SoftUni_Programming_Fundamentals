@@ -1,0 +1,6 @@
+C:\Users\nora2\Desktop\Projects\Tech Module\6.1. Objects and Classes Lab\05. Closest Two Points\bin\Debug\_05.Closest_Two_Points.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\6.1. Objects and Classes Lab\05. Closest Two Points\bin\Debug\_05.Closest_Two_Points.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\6.1. Objects and Classes Lab\05. Closest Two Points\bin\Debug\_05.Closest_Two_Points.pdb
+C:\Users\nora2\Desktop\Projects\Tech Module\6.1. Objects and Classes Lab\05. Closest Two Points\obj\Debug\05. Closest Two Points.csprojResolveAssemblyReference.cache
+C:\Users\nora2\Desktop\Projects\Tech Module\6.1. Objects and Classes Lab\05. Closest Two Points\obj\Debug\_05.Closest_Two_Points.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\6.1. Objects and Classes Lab\05. Closest Two Points\obj\Debug\_05.Closest_Two_Points.pdb

@@ -1,0 +1,9 @@
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\8.1.1Strings and RegEx Lab\03. Text Filter\bin\Debug\_03.Text_Filter.exe.config
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\8.1.1Strings and RegEx Lab\03. Text Filter\bin\Debug\_03.Text_Filter.exe
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\8.1.1Strings and RegEx Lab\03. Text Filter\bin\Debug\_03.Text_Filter.pdb
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\8.1.1Strings and RegEx Lab\03. Text Filter\obj\Debug\03. Text Filter.csprojResolveAssemblyReference.cache
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\8.1.1Strings and RegEx Lab\03. Text Filter\obj\Debug\_03.Text_Filter.exe
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\8.1.1Strings and RegEx Lab\03. Text Filter\obj\Debug\_03.Text_Filter.pdb
+C:\Users\nora2\Desktop\Projects\Tech Module\8.1.Strings and RegEx Lab\03. Text Filter\bin\Debug\_03.Text_Filter.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\8.1.Strings and RegEx Lab\03. Text Filter\obj\Debug\_03.Text_Filter.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\8.1.Strings and RegEx Lab\03. Text Filter\obj\Debug\_03.Text_Filter.pdb

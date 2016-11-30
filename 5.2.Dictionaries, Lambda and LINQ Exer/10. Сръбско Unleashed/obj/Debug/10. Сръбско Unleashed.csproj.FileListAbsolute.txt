@@ -1,0 +1,5 @@
+C:\Users\nora2\Desktop\Projects\Tech Module\5.2.Dictionaries, Lambda and LINQ Exer\10. Сръбско Unleashed\bin\Debug\_10.Сръбско_Unleashed.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\5.2.Dictionaries, Lambda and LINQ Exer\10. Сръбско Unleashed\bin\Debug\_10.Сръбско_Unleashed.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\5.2.Dictionaries, Lambda and LINQ Exer\10. Сръбско Unleashed\bin\Debug\_10.Сръбско_Unleashed.pdb
+C:\Users\nora2\Desktop\Projects\Tech Module\5.2.Dictionaries, Lambda and LINQ Exer\10. Сръбско Unleashed\obj\Debug\_10.Сръбско_Unleashed.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\5.2.Dictionaries, Lambda and LINQ Exer\10. Сръбско Unleashed\obj\Debug\_10.Сръбско_Unleashed.pdb

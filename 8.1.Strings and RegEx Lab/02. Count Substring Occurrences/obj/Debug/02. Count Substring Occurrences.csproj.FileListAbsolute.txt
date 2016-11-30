@@ -1,0 +1,8 @@
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\8.1.1Strings and RegEx Lab\02. Count Substring Occurrences\bin\Debug\_02.Count_Substring_Occurrences.exe.config
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\8.1.1Strings and RegEx Lab\02. Count Substring Occurrences\bin\Debug\_02.Count_Substring_Occurrences.exe
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\8.1.1Strings and RegEx Lab\02. Count Substring Occurrences\bin\Debug\_02.Count_Substring_Occurrences.pdb
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\8.1.1Strings and RegEx Lab\02. Count Substring Occurrences\obj\Debug\_02.Count_Substring_Occurrences.exe
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\8.1.1Strings and RegEx Lab\02. Count Substring Occurrences\obj\Debug\_02.Count_Substring_Occurrences.pdb
+C:\Users\nora2\Desktop\Projects\Tech Module\8.1.Strings and RegEx Lab\02. Count Substring Occurrences\bin\Debug\_02.Count_Substring_Occurrences.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\8.1.Strings and RegEx Lab\02. Count Substring Occurrences\obj\Debug\_02.Count_Substring_Occurrences.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\8.1.Strings and RegEx Lab\02. Count Substring Occurrences\obj\Debug\_02.Count_Substring_Occurrences.pdb

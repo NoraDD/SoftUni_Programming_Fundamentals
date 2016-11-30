@@ -1,0 +1,7 @@
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\6.1. Objects and Classes Lab\01. Day of Week\bin\Debug\_01.Day_of_Week.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\6.1. Objects and Classes Lab\01. Day of Week\bin\Debug\_01.Day_of_Week.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\6.1. Objects and Classes Lab\01. Day of Week\bin\Debug\_01.Day_of_Week.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\6.1. Objects and Classes Lab\01. Day of Week\bin\Debug\_01.Day_of_Week.pdb
+C:\Users\nora2\Desktop\Projects\Tech Module\6.1. Objects and Classes Lab\01. Day of Week\obj\Debug\01. Day of Week.csprojResolveAssemblyReference.cache
+C:\Users\nora2\Desktop\Projects\Tech Module\6.1. Objects and Classes Lab\01. Day of Week\obj\Debug\_01.Day_of_Week.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\6.1. Objects and Classes Lab\01. Day of Week\obj\Debug\_01.Day_of_Week.pdb

@@ -1,0 +1,9 @@
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\8.2.Strings and RegEx - Exercise\01. Convert from base-10 to base-N\bin\Debug\_01.Convert_from_base_10_to_base_N.exe.config
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\8.2.Strings and RegEx - Exercise\01. Convert from base-10 to base-N\bin\Debug\_01.Convert_from_base_10_to_base_N.exe
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\8.2.Strings and RegEx - Exercise\01. Convert from base-10 to base-N\bin\Debug\_01.Convert_from_base_10_to_base_N.pdb
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\8.2.Strings and RegEx - Exercise\01. Convert from base-10 to base-N\obj\Debug\01. Convert from base-10 to base-N.csprojResolveAssemblyReference.cache
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\8.2.Strings and RegEx - Exercise\01. Convert from base-10 to base-N\obj\Debug\_01.Convert_from_base_10_to_base_N.exe
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\8.2.Strings and RegEx - Exercise\01. Convert from base-10 to base-N\obj\Debug\_01.Convert_from_base_10_to_base_N.pdb
+C:\Users\nora2\Desktop\Projects\Tech Module\8.2.Strings and RegEx - Exercise\01. Convert from base-10 to base-N\bin\Debug\_01.Convert_from_base_10_to_base_N.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\8.2.Strings and RegEx - Exercise\01. Convert from base-10 to base-N\obj\Debug\_01.Convert_from_base_10_to_base_N.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\8.2.Strings and RegEx - Exercise\01. Convert from base-10 to base-N\obj\Debug\_01.Convert_from_base_10_to_base_N.pdb

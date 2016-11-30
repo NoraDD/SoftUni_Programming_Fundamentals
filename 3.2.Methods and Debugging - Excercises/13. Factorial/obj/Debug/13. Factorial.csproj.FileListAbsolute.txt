@@ -1,0 +1,6 @@
+C:\Users\nora2\Desktop\Projects\Tech Module\3.2.Methods and Debugging - Excercises\13. Factorial\bin\Debug\_13.Factorial.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\3.2.Methods and Debugging - Excercises\13. Factorial\bin\Debug\_13.Factorial.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\3.2.Methods and Debugging - Excercises\13. Factorial\bin\Debug\_13.Factorial.pdb
+C:\Users\nora2\Desktop\Projects\Tech Module\3.2.Methods and Debugging - Excercises\13. Factorial\obj\Debug\13. Factorial.csprojResolveAssemblyReference.cache
+C:\Users\nora2\Desktop\Projects\Tech Module\3.2.Methods and Debugging - Excercises\13. Factorial\obj\Debug\_13.Factorial.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\3.2.Methods and Debugging - Excercises\13. Factorial\obj\Debug\_13.Factorial.pdb

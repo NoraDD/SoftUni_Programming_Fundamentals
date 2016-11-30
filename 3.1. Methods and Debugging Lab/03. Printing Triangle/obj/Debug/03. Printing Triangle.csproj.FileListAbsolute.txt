@@ -1,0 +1,12 @@
+c:\users\siropo\documents\visual studio 2015\Projects\3.1. Methods and Debugging Lab\03. Printing Triangle\bin\Debug\_03.Printing_Triangle.exe.config
+c:\users\siropo\documents\visual studio 2015\Projects\3.1. Methods and Debugging Lab\03. Printing Triangle\obj\Debug\03. Printing Triangle.csprojResolveAssemblyReference.cache
+c:\users\siropo\documents\visual studio 2015\Projects\3.1. Methods and Debugging Lab\03. Printing Triangle\bin\Debug\_03.Printing_Triangle.exe
+c:\users\siropo\documents\visual studio 2015\Projects\3.1. Methods and Debugging Lab\03. Printing Triangle\bin\Debug\_03.Printing_Triangle.pdb
+c:\users\siropo\documents\visual studio 2015\Projects\3.1. Methods and Debugging Lab\03. Printing Triangle\obj\Debug\_03.Printing_Triangle.exe
+c:\users\siropo\documents\visual studio 2015\Projects\3.1. Methods and Debugging Lab\03. Printing Triangle\obj\Debug\_03.Printing_Triangle.pdb
+C:\Users\nora2\Desktop\Projects\Tech Module\3.1. Methods and Debugging Lab\03. Printing Triangle\bin\Debug\_03.Printing_Triangle.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\3.1. Methods and Debugging Lab\03. Printing Triangle\obj\Debug\_03.Printing_Triangle.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\3.1. Methods and Debugging Lab\03. Printing Triangle\obj\Debug\_03.Printing_Triangle.pdb
+C:\Users\nora2\Desktop\Projects\Tech Module\3.1. Methods and Debugging Lab\03. Printing Triangle\bin\Debug\_03.Printing_Triangle.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\3.1. Methods and Debugging Lab\03. Printing Triangle\bin\Debug\_03.Printing_Triangle.pdb
+C:\Users\nora2\Desktop\Projects\Tech Module\3.1. Methods and Debugging Lab\03. Printing Triangle\obj\Debug\03. Printing Triangle.csprojResolveAssemblyReference.cache

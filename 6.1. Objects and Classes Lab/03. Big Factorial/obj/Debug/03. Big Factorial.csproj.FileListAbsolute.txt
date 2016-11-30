@@ -1,0 +1,6 @@
+C:\Users\nora2\Desktop\Projects\Tech Module\6.1. Objects and Classes Lab\03. Big Factorial\bin\Debug\_03.Big_Factorial.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\6.1. Objects and Classes Lab\03. Big Factorial\bin\Debug\_03.Big_Factorial.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\6.1. Objects and Classes Lab\03. Big Factorial\bin\Debug\_03.Big_Factorial.pdb
+C:\Users\nora2\Desktop\Projects\Tech Module\6.1. Objects and Classes Lab\03. Big Factorial\obj\Debug\03. Big Factorial.csprojResolveAssemblyReference.cache
+C:\Users\nora2\Desktop\Projects\Tech Module\6.1. Objects and Classes Lab\03. Big Factorial\obj\Debug\_03.Big_Factorial.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\6.1. Objects and Classes Lab\03. Big Factorial\obj\Debug\_03.Big_Factorial.pdb

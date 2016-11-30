@@ -1,0 +1,6 @@
+C:\Users\nora2\Desktop\Projects\Tech Module\2.2. Data Types and Variables Exercises\17. Print Part Of ASCII Table\bin\Debug\_17.Print_Part_Of_ASCII_Table.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\2.2. Data Types and Variables Exercises\17. Print Part Of ASCII Table\bin\Debug\_17.Print_Part_Of_ASCII_Table.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\2.2. Data Types and Variables Exercises\17. Print Part Of ASCII Table\bin\Debug\_17.Print_Part_Of_ASCII_Table.pdb
+C:\Users\nora2\Desktop\Projects\Tech Module\2.2. Data Types and Variables Exercises\17. Print Part Of ASCII Table\obj\Debug\17. Print Part Of ASCII Table.csprojResolveAssemblyReference.cache
+C:\Users\nora2\Desktop\Projects\Tech Module\2.2. Data Types and Variables Exercises\17. Print Part Of ASCII Table\obj\Debug\_17.Print_Part_Of_ASCII_Table.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\2.2. Data Types and Variables Exercises\17. Print Part Of ASCII Table\obj\Debug\_17.Print_Part_Of_ASCII_Table.pdb

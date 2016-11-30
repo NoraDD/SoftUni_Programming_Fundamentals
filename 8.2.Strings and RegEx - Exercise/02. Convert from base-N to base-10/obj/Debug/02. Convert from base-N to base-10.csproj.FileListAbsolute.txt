@@ -1,0 +1,5 @@
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\8.2.Strings and RegEx - Exercise\02. Convert from base-N to base-10\bin\Debug\_02.Convert_from_base_N_to_base_10.exe.config
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\8.2.Strings and RegEx - Exercise\02. Convert from base-N to base-10\bin\Debug\_02.Convert_from_base_N_to_base_10.exe
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\8.2.Strings and RegEx - Exercise\02. Convert from base-N to base-10\bin\Debug\_02.Convert_from_base_N_to_base_10.pdb
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\8.2.Strings and RegEx - Exercise\02. Convert from base-N to base-10\obj\Debug\_02.Convert_from_base_N_to_base_10.exe
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\8.2.Strings and RegEx - Exercise\02. Convert from base-N to base-10\obj\Debug\_02.Convert_from_base_N_to_base_10.pdb

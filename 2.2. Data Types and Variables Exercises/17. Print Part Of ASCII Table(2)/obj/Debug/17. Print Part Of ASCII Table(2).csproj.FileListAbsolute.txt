@@ -1,0 +1,5 @@
+C:\Users\nora2\Desktop\Projects\Tech Module\2.2. Data Types and Variables Exercises\17. Print Part Of ASCII Table(2)\bin\Debug\_17.Print_Part_Of_ASCII_Table_2_.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\2.2. Data Types and Variables Exercises\17. Print Part Of ASCII Table(2)\bin\Debug\_17.Print_Part_Of_ASCII_Table_2_.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\2.2. Data Types and Variables Exercises\17. Print Part Of ASCII Table(2)\bin\Debug\_17.Print_Part_Of_ASCII_Table_2_.pdb
+C:\Users\nora2\Desktop\Projects\Tech Module\2.2. Data Types and Variables Exercises\17. Print Part Of ASCII Table(2)\obj\Debug\_17.Print_Part_Of_ASCII_Table_2_.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\2.2. Data Types and Variables Exercises\17. Print Part Of ASCII Table(2)\obj\Debug\_17.Print_Part_Of_ASCII_Table_2_.pdb

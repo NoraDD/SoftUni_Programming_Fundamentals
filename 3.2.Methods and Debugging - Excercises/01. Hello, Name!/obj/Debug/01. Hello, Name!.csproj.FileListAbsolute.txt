@@ -1,0 +1,12 @@
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\3.2.Methods and Debugging - Excercises\01. Hello, Name!\bin\Debug\_01.Hello__Name_.exe.config
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\3.2.Methods and Debugging - Excercises\01. Hello, Name!\bin\Debug\_01.Hello__Name_.exe
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\3.2.Methods and Debugging - Excercises\01. Hello, Name!\bin\Debug\_01.Hello__Name_.pdb
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\3.2.Methods and Debugging - Excercises\01. Hello, Name!\obj\Debug\01. Hello, Name!.csprojResolveAssemblyReference.cache
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\3.2.Methods and Debugging - Excercises\01. Hello, Name!\obj\Debug\_01.Hello__Name_.exe
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\3.2.Methods and Debugging - Excercises\01. Hello, Name!\obj\Debug\_01.Hello__Name_.pdb
+C:\Users\nora2\Desktop\Projects\Tech Module\3.2.Methods and Debugging - Excercises\01. Hello, Name!\bin\Debug\_01.Hello__Name_.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\3.2.Methods and Debugging - Excercises\01. Hello, Name!\obj\Debug\_01.Hello__Name_.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\3.2.Methods and Debugging - Excercises\01. Hello, Name!\obj\Debug\_01.Hello__Name_.pdb
+C:\Users\nora2\Desktop\Projects\Tech Module\Programming Fundamentals_Sept 2016\3.2.Methods and Debugging - Excercises\01. Hello, Name!\bin\Debug\_01.Hello__Name_.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\Programming Fundamentals_Sept 2016\3.2.Methods and Debugging - Excercises\01. Hello, Name!\obj\Debug\_01.Hello__Name_.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\Programming Fundamentals_Sept 2016\3.2.Methods and Debugging - Excercises\01. Hello, Name!\obj\Debug\_01.Hello__Name_.pdb

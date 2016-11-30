@@ -1,0 +1,6 @@
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\6.2.Objects and Classes Exercises\05. Book Library\bin\Debug\_05.Book_Library.exe.config
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\6.2.Objects and Classes Exercises\05. Book Library\bin\Debug\_05.Book_Library.exe
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\6.2.Objects and Classes Exercises\05. Book Library\bin\Debug\_05.Book_Library.pdb
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\6.2.Objects and Classes Exercises\05. Book Library\obj\Debug\05. Book Library.csprojResolveAssemblyReference.cache
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\6.2.Objects and Classes Exercises\05. Book Library\obj\Debug\_05.Book_Library.exe
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\6.2.Objects and Classes Exercises\05. Book Library\obj\Debug\_05.Book_Library.pdb

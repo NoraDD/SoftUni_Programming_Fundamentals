@@ -1,0 +1,5 @@
+C:\Users\nora2\Desktop\Projects\Tech Module\5.2.Dictionaries, Lambda and LINQ Exer\09. Legendary Farming\bin\Debug\_09.Legendary_Farming.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\5.2.Dictionaries, Lambda and LINQ Exer\09. Legendary Farming\bin\Debug\_09.Legendary_Farming.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\5.2.Dictionaries, Lambda and LINQ Exer\09. Legendary Farming\bin\Debug\_09.Legendary_Farming.pdb
+C:\Users\nora2\Desktop\Projects\Tech Module\5.2.Dictionaries, Lambda and LINQ Exer\09. Legendary Farming\obj\Debug\_09.Legendary_Farming.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\5.2.Dictionaries, Lambda and LINQ Exer\09. Legendary Farming\obj\Debug\_09.Legendary_Farming.pdb

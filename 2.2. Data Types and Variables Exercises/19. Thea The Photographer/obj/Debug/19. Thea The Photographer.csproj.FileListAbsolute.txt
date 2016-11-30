@@ -1,0 +1,7 @@
+c:\users\siropo\documents\visual studio 2015\Projects\03. Data Types and Variables Exercises\19. Thea The Photographer\bin\Debug\_19.Thea_The_Photographer.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\2.2. Data Types and Variables Exercises\19. Thea The Photographer\bin\Debug\_19.Thea_The_Photographer.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\2.2. Data Types and Variables Exercises\19. Thea The Photographer\bin\Debug\_19.Thea_The_Photographer.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\2.2. Data Types and Variables Exercises\19. Thea The Photographer\bin\Debug\_19.Thea_The_Photographer.pdb
+C:\Users\nora2\Desktop\Projects\Tech Module\2.2. Data Types and Variables Exercises\19. Thea The Photographer\obj\Debug\19. Thea The Photographer.csprojResolveAssemblyReference.cache
+C:\Users\nora2\Desktop\Projects\Tech Module\2.2. Data Types and Variables Exercises\19. Thea The Photographer\obj\Debug\_19.Thea_The_Photographer.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\2.2. Data Types and Variables Exercises\19. Thea The Photographer\obj\Debug\_19.Thea_The_Photographer.pdb

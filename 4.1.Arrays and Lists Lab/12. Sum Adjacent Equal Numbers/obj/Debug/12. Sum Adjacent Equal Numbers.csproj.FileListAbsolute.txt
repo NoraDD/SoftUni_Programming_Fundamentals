@@ -1,0 +1,6 @@
+C:\Users\nora2\Desktop\Projects\Tech Module\4.1.Arrays and Lists Lab\12. Sum Adjacent Equal Numbers\bin\Debug\_12.Sum_Adjacent_Equal_Numbers.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\4.1.Arrays and Lists Lab\12. Sum Adjacent Equal Numbers\bin\Debug\_12.Sum_Adjacent_Equal_Numbers.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\4.1.Arrays and Lists Lab\12. Sum Adjacent Equal Numbers\bin\Debug\_12.Sum_Adjacent_Equal_Numbers.pdb
+C:\Users\nora2\Desktop\Projects\Tech Module\4.1.Arrays and Lists Lab\12. Sum Adjacent Equal Numbers\obj\Debug\12. Sum Adjacent Equal Numbers.csprojResolveAssemblyReference.cache
+C:\Users\nora2\Desktop\Projects\Tech Module\4.1.Arrays and Lists Lab\12. Sum Adjacent Equal Numbers\obj\Debug\_12.Sum_Adjacent_Equal_Numbers.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\4.1.Arrays and Lists Lab\12. Sum Adjacent Equal Numbers\obj\Debug\_12.Sum_Adjacent_Equal_Numbers.pdb

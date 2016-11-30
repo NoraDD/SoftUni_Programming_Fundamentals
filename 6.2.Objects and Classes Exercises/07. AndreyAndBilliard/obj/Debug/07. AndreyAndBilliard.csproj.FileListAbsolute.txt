@@ -1,0 +1,5 @@
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\6.2.Objects and Classes Exercises\07. AndreyAndBilliard\bin\Debug\_07.AndreyAndBilliard.exe.config
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\6.2.Objects and Classes Exercises\07. AndreyAndBilliard\bin\Debug\_07.AndreyAndBilliard.exe
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\6.2.Objects and Classes Exercises\07. AndreyAndBilliard\bin\Debug\_07.AndreyAndBilliard.pdb
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\6.2.Objects and Classes Exercises\07. AndreyAndBilliard\obj\Debug\_07.AndreyAndBilliard.exe
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\6.2.Objects and Classes Exercises\07. AndreyAndBilliard\obj\Debug\_07.AndreyAndBilliard.pdb

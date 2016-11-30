@@ -1,0 +1,5 @@
+c:\users\siropo\documents\visual studio 2015\Projects\03. Data Types and Variables Exercises\09. Reversed chars\bin\Debug\_09.Reversed_chars.exe.config
+c:\users\siropo\documents\visual studio 2015\Projects\03. Data Types and Variables Exercises\09. Reversed chars\bin\Debug\_09.Reversed_chars.exe
+c:\users\siropo\documents\visual studio 2015\Projects\03. Data Types and Variables Exercises\09. Reversed chars\bin\Debug\_09.Reversed_chars.pdb
+c:\users\siropo\documents\visual studio 2015\Projects\03. Data Types and Variables Exercises\09. Reversed chars\obj\Debug\_09.Reversed_chars.exe
+c:\users\siropo\documents\visual studio 2015\Projects\03. Data Types and Variables Exercises\09. Reversed chars\obj\Debug\_09.Reversed_chars.pdb

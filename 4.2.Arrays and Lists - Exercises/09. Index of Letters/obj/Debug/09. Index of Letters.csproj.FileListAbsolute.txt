@@ -1,0 +1,6 @@
+C:\Users\nora2\Desktop\Projects\Tech Module\4.2.Arrays and Lists - Exercises\09. Index of Letters\bin\Debug\_09.Index_of_Letters.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\4.2.Arrays and Lists - Exercises\09. Index of Letters\bin\Debug\_09.Index_of_Letters.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\4.2.Arrays and Lists - Exercises\09. Index of Letters\bin\Debug\_09.Index_of_Letters.pdb
+C:\Users\nora2\Desktop\Projects\Tech Module\4.2.Arrays and Lists - Exercises\09. Index of Letters\obj\Debug\_09.Index_of_Letters.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\4.2.Arrays and Lists - Exercises\09. Index of Letters\obj\Debug\_09.Index_of_Letters.pdb
+C:\Users\nora2\Desktop\Projects\Tech Module\4.2.Arrays and Lists - Exercises\09. Index of Letters\obj\Debug\09. Index of Letters.csprojResolveAssemblyReference.cache

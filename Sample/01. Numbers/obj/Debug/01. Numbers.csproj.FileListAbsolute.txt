@@ -1,0 +1,6 @@
+C:\Users\nora2\Desktop\Projects\Tech Module\Sample\01. Numbers\bin\Debug\_01.Numbers.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\Sample\01. Numbers\bin\Debug\_01.Numbers.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\Sample\01. Numbers\bin\Debug\_01.Numbers.pdb
+C:\Users\nora2\Desktop\Projects\Tech Module\Sample\01. Numbers\obj\Debug\01. Numbers.csprojResolveAssemblyReference.cache
+C:\Users\nora2\Desktop\Projects\Tech Module\Sample\01. Numbers\obj\Debug\_01.Numbers.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\Sample\01. Numbers\obj\Debug\_01.Numbers.pdb

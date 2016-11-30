@@ -1,0 +1,6 @@
+c:\users\siropo\documents\visual studio 2015\Projects\03. Data Types and Variables Exercises\04. Variable in Hex Format\bin\Debug\_04.Variable_in_Hex_Format.exe.config
+c:\users\siropo\documents\visual studio 2015\Projects\03. Data Types and Variables Exercises\04. Variable in Hex Format\bin\Debug\_04.Variable_in_Hex_Format.exe
+c:\users\siropo\documents\visual studio 2015\Projects\03. Data Types and Variables Exercises\04. Variable in Hex Format\bin\Debug\_04.Variable_in_Hex_Format.pdb
+c:\users\siropo\documents\visual studio 2015\Projects\03. Data Types and Variables Exercises\04. Variable in Hex Format\obj\Debug\04. Variable in Hex Format.csprojResolveAssemblyReference.cache
+c:\users\siropo\documents\visual studio 2015\Projects\03. Data Types and Variables Exercises\04. Variable in Hex Format\obj\Debug\_04.Variable_in_Hex_Format.exe
+c:\users\siropo\documents\visual studio 2015\Projects\03. Data Types and Variables Exercises\04. Variable in Hex Format\obj\Debug\_04.Variable_in_Hex_Format.pdb

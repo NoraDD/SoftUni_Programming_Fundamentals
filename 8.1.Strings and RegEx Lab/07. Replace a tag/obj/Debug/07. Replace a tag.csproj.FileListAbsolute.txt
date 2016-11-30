@@ -1,0 +1,9 @@
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\8.1.1Strings and RegEx Lab\07. Replace a tag\bin\Debug\_07.Replace_a_tag.exe.config
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\8.1.1Strings and RegEx Lab\07. Replace a tag\bin\Debug\_07.Replace_a_tag.exe
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\8.1.1Strings and RegEx Lab\07. Replace a tag\bin\Debug\_07.Replace_a_tag.pdb
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\8.1.1Strings and RegEx Lab\07. Replace a tag\obj\Debug\07. Replace a tag.csprojResolveAssemblyReference.cache
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\8.1.1Strings and RegEx Lab\07. Replace a tag\obj\Debug\_07.Replace_a_tag.exe
+c:\users\nora2\onedrive\documents\visual studio 2015\Projects\8.1.1Strings and RegEx Lab\07. Replace a tag\obj\Debug\_07.Replace_a_tag.pdb
+C:\Users\nora2\Desktop\Projects\Tech Module\8.1.Strings and RegEx Lab\07. Replace a tag\bin\Debug\_07.Replace_a_tag.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\8.1.Strings and RegEx Lab\07. Replace a tag\obj\Debug\_07.Replace_a_tag.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\8.1.Strings and RegEx Lab\07. Replace a tag\obj\Debug\_07.Replace_a_tag.pdb

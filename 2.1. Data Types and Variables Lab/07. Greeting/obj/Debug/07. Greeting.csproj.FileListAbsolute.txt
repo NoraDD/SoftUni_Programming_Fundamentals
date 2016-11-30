@@ -1,0 +1,5 @@
+c:\users\siropo\documents\visual studio 2015\Projects\02. Data Types and Variables Lab\07. Greeting\bin\Debug\_07.Greeting.exe.config
+c:\users\siropo\documents\visual studio 2015\Projects\02. Data Types and Variables Lab\07. Greeting\bin\Debug\_07.Greeting.exe
+c:\users\siropo\documents\visual studio 2015\Projects\02. Data Types and Variables Lab\07. Greeting\bin\Debug\_07.Greeting.pdb
+c:\users\siropo\documents\visual studio 2015\Projects\02. Data Types and Variables Lab\07. Greeting\obj\Debug\_07.Greeting.exe
+c:\users\siropo\documents\visual studio 2015\Projects\02. Data Types and Variables Lab\07. Greeting\obj\Debug\_07.Greeting.pdb

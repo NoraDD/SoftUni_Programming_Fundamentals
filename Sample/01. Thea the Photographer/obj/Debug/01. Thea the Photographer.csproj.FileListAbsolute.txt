@@ -1,0 +1,6 @@
+C:\Users\nora2\Desktop\Projects\Tech Module\Sample\01. Thea the Photographer\bin\Debug\_01.Thea_the_Photographer.exe.config
+C:\Users\nora2\Desktop\Projects\Tech Module\Sample\01. Thea the Photographer\bin\Debug\_01.Thea_the_Photographer.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\Sample\01. Thea the Photographer\bin\Debug\_01.Thea_the_Photographer.pdb
+C:\Users\nora2\Desktop\Projects\Tech Module\Sample\01. Thea the Photographer\obj\Debug\01. Thea the Photographer.csprojResolveAssemblyReference.cache
+C:\Users\nora2\Desktop\Projects\Tech Module\Sample\01. Thea the Photographer\obj\Debug\_01.Thea_the_Photographer.exe
+C:\Users\nora2\Desktop\Projects\Tech Module\Sample\01. Thea the Photographer\obj\Debug\_01.Thea_the_Photographer.pdb
